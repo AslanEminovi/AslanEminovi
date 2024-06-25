@@ -1,7 +1,7 @@
 # Hey there, I'm Aslan Eminovi! 👋
 
 <p align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/personal_note.svg](https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Banner Image" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
 ### 📚 Computer Engineering Student | 🖥️ Future Mobile App Dev | 🌐 Web and Database Fan
