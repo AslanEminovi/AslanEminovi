@@ -2,6 +2,26 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.example.com" target="_blank">
+        <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="200" height="200" />
+        <br />
+        <strong>Visit my personal website</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
+        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif" alt="Listen to cool music" width="200" height="200" />
+        <br />
+        <strong>Listen to cool music</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 # Hey there, I'm Aslan Eminovi! 👋
 
 ### 📚 Computer Engineering Student | 🖥️ Future Mobile App Dev | 🌐 Web and Database Fan
@@ -39,27 +59,6 @@ I'm Aslan, currently a second-year Computer Engineering student at Istanbul Tica
 - **School Email**: aslan.eminovi@istanbulticaret.edu.tr
 
 Feel free to check out my projects. If you’re interested in collaborating or just want to chat about tech, drop me a message!
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.example.com" target="_blank">
-        <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="200" height="200" />
-        <br />
-        <strong>Visit my personal website</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
-        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif" alt="Listen to cool music" width="200" height="200" />
-        <br />
-        <strong>Listen to cool music</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 
 ---
 
