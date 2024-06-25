@@ -23,6 +23,8 @@
 
 ---
 
+<div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+
 I'm Aslan, currently a second-year Computer Engineering student at Istanbul Ticaret University. I’m super passionate about creating cool mobile apps and diving into the intricate world of databases and web development.
 
 ### 🛠️ Tech & Tools I Use
@@ -55,8 +57,8 @@ I'm Aslan, currently a second-year Computer Engineering student at Istanbul Tica
 
 Feel free to check out my projects. If you’re interested in collaborating or just want to chat about tech, drop me a message!
 
+</div>
+
 ---
 
 "Be water, my friend." – Bruce Lee
-
-"Strive not to be a success, but rather to be of value." – Albert Einstein
