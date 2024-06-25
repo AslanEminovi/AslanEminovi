@@ -6,25 +6,16 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.example.com" target="_blank">
-        <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="150" height="150" />
-        <br />
-        <strong>Visit my personal website</strong>
-      
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
-        <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Listen to cool music" width="150" height="150" />
-        <br />
-        <strong>Listen to cool music</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" width="150" height="150" />
+  <div style="width:100px;height:100px;display:inline-block;">
+    <iframe src="https://giphy.com/embed/BG49MnxAciCIVAuQMj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </div>
+</p>
+<p align="center">
+  <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj">via GIPHY</a>
+</p>
+
 
 
 ---
