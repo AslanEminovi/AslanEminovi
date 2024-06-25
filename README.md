@@ -2,25 +2,25 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
+
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://www.example.com" target="_blank">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkwb2dha3ltYTk0Y2JrbWppMHh0eThnNDljMjk0N2NtcnZuendsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="200" height="200" />
+        <img src="https://github.com/AslanEminovi/AslanEminovi/assets/119766689/907e74ad-3633-4133-b240-b818e5ae2bcb" alt="Visit my personal website" width="200" height="200" />
         <br />
         <strong>Visit my personal website</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
-        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif" alt="Listen to cool music" width="200" height="200" />
+        <img src="https://github.com/AslanEminovi/AslanEminovi/assets/119766689/187e32d2-e8e5-406d-b5b8-4c94034f6433" alt="Listen to cool music" width="200" height="200" />
         <br />
         <strong>Listen to cool music</strong>
       </a>
     </td>
   </tr>
 </table>
-
 
 
 # Hey there, I'm Aslan Eminovi! 👋
