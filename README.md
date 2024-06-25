@@ -6,11 +6,12 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
-<p align="center">
+<p align="center" style="position: relative;">
+  <a href="https://your-website-link.com" target="_blank" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
   <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" width="150" height="150" />
-  <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj" target="_blank">
-    <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Mental Health Resources" width="150" height="150" />
-  </a>
+  
+  <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj" target="_blank" style="position: absolute; top: 50%; left: calc(50% + 180px); transform: translate(-50%, -50%); background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Listen to some cool music!</a>
+  <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Mental Health Resources" width="150" height="150" />
 </p>
 
 
