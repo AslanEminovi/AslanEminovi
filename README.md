@@ -8,14 +8,15 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" width="150" height="150" />
-  <div style="width:100px;height:100px;display:inline-block;">
-    <iframe src="https://giphy.com/embed/BG49MnxAciCIVAuQMj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
+  <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj" target="_blank">
+    <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Mental Health Resources" width="150" height="150" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj">via GIPHY</a>
 </p>
+
 
 
 ---
