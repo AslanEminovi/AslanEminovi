@@ -12,10 +12,10 @@
     <iframe src="https://giphy.com/embed/BG49MnxAciCIVAuQMj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </div>
 </p>
+
 <p align="center">
   <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj">via GIPHY</a>
 </p>
-
 
 
 ---
