@@ -44,7 +44,7 @@ Feel free to check out my projects. If you’re interested in collaborating or j
   <tr>
     <td align="center">
       <a href="https://www.example.com" target="_blank">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkwb2dha3ltYTk0Y2JrbWppMHh0eThnNDljMjk0N2NtcnZuendsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="200" height="200" />
+        <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="200" height="200" />
         <br />
         <strong>Visit my personal website</strong>
       </a>
@@ -58,6 +58,7 @@ Feel free to check out my projects. If you’re interested in collaborating or j
     </td>
   </tr>
 </table>
+
 
 
 ---
