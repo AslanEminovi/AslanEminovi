@@ -40,19 +40,24 @@ I'm Aslan, currently a second-year Computer Engineering student at Istanbul Tica
 
 Feel free to check out my projects. If you’re interested in collaborating or just want to chat about tech, drop me a message!
 
-<p align="center">
-  <a href="https://www.example.com" target="_blank">
-    <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/earth.gif" alt="Visit my personal website" width="200" height="200" />
-    <br />
-    <strong>Visit my personal website</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
-    <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif" alt="Listen to cool music" width="200" height="200" />
-    <br />
-    <strong>Listen to cool music</strong>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.example.com" target="_blank">
+        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/globe.gif" alt="Visit my personal website" width="200" height="200" />
+        <br />
+        <strong>Visit my personal website</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
+        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif" alt="Listen to cool music" width="200" height="200" />
+        <br />
+        <strong>Listen to cool music</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
