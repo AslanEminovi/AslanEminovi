@@ -49,6 +49,13 @@ I'm Aslan, currently a second-year Computer Engineering student at Istanbul Tica
 - Getting deeper into database management and optimization.
 - Researching and developing AI and machine learning applications.
 
+### My Hobbies
+
+- AI Research 🤖: Exploring the realms of artificial intelligence, from machine learning algorithms to neural networks.
+- Chess ♟️: Enjoying strategic thinking and tactical play in the timeless game of chess.
+- Buying tech stuff ⚙️: Keeping up with the latest gadgets and technology trends.
+- Playing CS2 👾: Sometimes, studying and research can get a bit dull—you've gotta unwind with some gaming.
+
 ### 📫 How to Reach Me
 
 - **LinkedIn**: [aslan-eminovi](https://www.linkedin.com/in/aslan-eminovi/)
