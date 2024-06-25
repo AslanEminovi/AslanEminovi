@@ -1,10 +1,10 @@
-# Hey there, I'm Aslan Eminovi! 👋
-
-### 📚 Computer Engineering Student | 🖥️ Future Mobile App Dev | 🌐 Web and Database Fan
-
 <p align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
+
+# Hey there, I'm Aslan Eminovi! 👋
+
+### 📚 Computer Engineering Student | 🖥️ Future Mobile App Dev | 🌐 Web and Database Fan
 
 <table align="center">
   <tr>
@@ -60,6 +60,7 @@ Feel free to check out my projects. If you’re interested in collaborating or j
 ---
 
 "Be water, my friend." – Bruce Lee
+
 <a href="https://giphy.com/gifs/water-swimming-pool-summer-JXHhI4o9NCf8k" target="_blank">
   <img src="https://media.giphy.com/media/JXHhI4o9NCf8k/giphy.gif" alt="Water Swimming Pool" width="150" />
 </a>
