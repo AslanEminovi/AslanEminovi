@@ -21,7 +21,6 @@
   </tr>
 </table>
 
-
 ---
 
 I'm Aslan, currently a second-year Computer Engineering student at Istanbul Ticaret University. I’m super passionate about creating cool mobile apps and diving into the intricate world of databases and web development.
