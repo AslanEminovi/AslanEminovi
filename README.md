@@ -9,18 +9,17 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://your-website-link.com" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
+      <a href="https://cdn.trustpulse.com/wp-content/uploads/2019/03/how-to-create-a-coming-soon-page-in-wordpress.png" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
       <br>
       <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" width="150" height="150" />
     </td>
     <td align="center">
-      <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Listen to some cool music!</a>
+      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Listen to some cool music!</a>
       <br>
       <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Mental Health Resources" width="150" height="150" />
     </td>
   </tr>
 </table>
-
 
 
 ---
