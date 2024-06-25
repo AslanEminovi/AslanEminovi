@@ -57,8 +57,11 @@ I'm Aslan, currently a second-year Computer Engineering student at Istanbul Tica
 
 Feel free to check out my projects. If you’re interested in collaborating or just want to chat about tech, drop me a message!
 
-</div>
-
 ---
 
 "Be water, my friend." – Bruce Lee
+<a href="https://giphy.com/gifs/water-swimming-pool-summer-JXHhI4o9NCf8k" target="_blank">
+  <img src="https://media.giphy.com/media/JXHhI4o9NCf8k/giphy.gif" alt="Water Swimming Pool" width="150" />
+</a>
+
+</div>
