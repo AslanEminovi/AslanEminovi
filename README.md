@@ -13,6 +13,7 @@
         <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="150" height="150" />
         <br />
         <strong>Visit my personal website</strong>
+      
       </a>
     </td>
     <td align="center">
