@@ -13,11 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://giphy.com/gifs/IntoAction-mental-health-resources-crisis-BG49MnxAciCIVAuQMj">via GIPHY</a>
-</p>
-
-
 
 ---
 
