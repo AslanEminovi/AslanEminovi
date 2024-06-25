@@ -44,20 +44,21 @@ Feel free to check out my projects. If you’re interested in collaborating or j
   <tr>
     <td align="center">
       <a href="https://www.example.com" target="_blank">
-        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/globe.gif" alt="Visit my personal website" width="200" height="200" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkwb2dha3ltYTk0Y2JrbWppMHh0eThnNDljMjk0N2NtcnZuendsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3V0megwbBeETMgZa/giphy.gif" alt="Visit my personal website" width="200" height="200" />
         <br />
         <strong>Visit my personal website</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s&list=RD9ytiyD_QA2s&start_radio=1" target="_blank">
-        <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif?cid=790b7611pgn11lluk9z60lm9gj05e00izjeqxry96j71gwua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Listen to cool music" width="200" height="200" />
+        <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif" alt="Listen to cool music" width="200" height="200" />
         <br />
         <strong>Listen to cool music</strong>
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
