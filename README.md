@@ -5,8 +5,10 @@
 <p align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
-![globe](https://github.com/AslanEminovi/AslanEminovi/assets/119766689/720fc1d4-6b00-425a-950b-cb118fdcdd04)
-![music](https://github.com/AslanEminovi/AslanEminovi/assets/119766689/1b05ba73-20b7-4e90-8587-2b5eae10a2a1)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" />
+</p>
 
 ---
 
