@@ -31,7 +31,7 @@ I'm Aslan, currently a second-year Computer Engineering student at Istanbul Tica
 
 - **Languages**: 🐍 Python, 🌐 JavaScript, 🎨 HTML/CSS, 🗄️ SQL
 - **Frameworks**: 🟢 Node.js, 🌿 Django, ⚛️ React, 🅰️ Angular
-- **Databases**: 🐬 MySQL, 📦 XAMPP
+- **Databases**: 🐬 MySQL, MongoDB🍃
 - **Other Tools**: 🗂️ Git, 🏠 GitHub, 🔧 VS Code, 🚀 WebStorm
 
 ### 🔭 What I'm Working On
