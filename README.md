@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-I’m a second-year Computer Engineering student who loves building web and mobile apps from scratch. I thrive on solving real-world challenges with clean, maintainable code and scalable architectures.
+I’m a third-year Computer Engineering student who loves building web and mobile apps from scratch. I thrive on solving real-world challenges with clean, maintainable code and scalable architectures.
 
 - 🎮 Strategizing in CS2 for quick mental refreshers
 - 🤖 Training AI models on coding patterns and advanced math
