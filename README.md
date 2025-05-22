@@ -2,21 +2,21 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
-# Hey there, I'm Aslan Eminovi! 👋
+# Hey there, I’m Aslan Eminovi! 👋
 
-### 📚 Computer Engineering Student | 🖥️ Future Mobile App Dev | 🌐 Web and Database Fan
+**Computer Engineer** at Istanbul Ticaret University (Class of ’26) │ **Founder & Lead Developer** at SynQuad │ **AI Programming & Math Trainer** at Outlier AI
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://cdn.trustpulse.com/wp-content/uploads/2019/03/how-to-create-a-coming-soon-page-in-wordpress.png" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
+      <a href="https://aslaneminovi.com" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
       <br>
       <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" width="150" height="150" />
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Listen to some cool music!</a>
+      <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Listen to Music</a>
       <br>
-      <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Mental Health Resources" width="150" height="150" />
+      <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Music Vibes" width="150" height="150" />
     </td>
   </tr>
 </table>
@@ -25,51 +25,72 @@
 
 <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
 
-I'm Aslan, currently a second-year Computer Engineering student at Istanbul Ticaret University. I’m super passionate about creating cool mobile apps and diving into the intricate world of databases and web development.
+## 🚀 About Me
 
-### 🛠️ Tech & Tools I Use
+I’m a second-year Computer Engineering student who loves building web and mobile apps from scratch. I thrive on solving real-world challenges with clean, maintainable code and scalable architectures.
 
-- **Languages**: 🐍 Python, 🌐 JavaScript, 🎨 HTML/CSS, 🗄️ SQL
-- **Frameworks**: 🟢 Node.js, 🌿 Django, ⚛️ React, 🅰️ Angular
-- **Databases**: 🐬 MySQL, MongoDB🍃
-- **Other Tools**: 🗂️ Git, 🏠 GitHub, 🔧 VS Code, 🚀 WebStorm
-
-### 🔭 What I'm Working On
-
-- **Digital Game Market Website**: A platform for game lovers to buy, sell, and manage their game collections.
-- **Fitness Tracker Web App**: An app to keep track of workouts, calculate BMI, and monitor daily calories.
-- **Game Inventory Management System**: A desktop app for managing game items, backed by a MySQL database.
-- **Library Database Management**: A desktop app to manage library records, including authors, books, members, and borrowings.
-- **Modern Portfolio Website**: A sleek and contemporary portfolio website to showcase my projects and skills.
-
-### 🌱 What I'm Learning & My Goals
-
-- Improving my skills in mobile app development.
-- Learning advanced web development techniques.
-- Getting deeper into database management and optimization.
-- Researching and developing AI and machine learning applications.
-
-### My Hobbies
-
-- AI Research 🤖: Exploring the realms of artificial intelligence, from machine learning algorithms to neural networks.
-- Chess ♟️: Enjoying strategic thinking and tactical play in the timeless game of chess.
-- Buying tech stuff ⚙️: Keeping up with the latest gadgets and technology trends.
-- Playing CS2 👾: Sometimes, studying and research can get a bit dull—you've gotta unwind with some gaming.
-
-### 📫 How to Reach Me
-
-- **LinkedIn**: [aslan-eminovi](https://www.linkedin.com/in/aslan-eminovi/)
-- **Email**: eminoviaslan@gmail.com
-- **School Email**: aslan.eminovi@istanbulticaret.edu.tr
-
-Feel free to check out my projects. If you’re interested in collaborating or just want to chat about tech, drop me a message!
+- 🎮 Strategizing in CS2 for quick mental refreshers
+- 🤖 Training AI models on coding patterns and advanced math
+- ⚙️ Exploring Docker, CI/CD pipelines, and cloud deployments
+- ♟️ Enjoying tactical play in chess matches with friends
 
 ---
 
-"Be water, my friend." – Bruce Lee
+## 🛠️ Tech & Tools
 
-<a href="https://giphy.com/gifs/water-swimming-pool-summer-JXHhI4o9NCf8k" target="_blank">
-  <img src="https://media.giphy.com/media/JXHhI4o9NCf8k/giphy.gif" alt="Water Swimming Pool" width="150" />
-</a>
+| Domain           | Expertise                                                                 |
+|------------------|---------------------------------------------------------------------------|
+| **Languages**    | JavaScript, TypeScript, Python, Java, SQL                                 |
+| **Frontend**     | React.js, Next.js, Angular, NextUI, Tailwind                              |
+| **Backend**      | Node.js, Express, Django, MongoDB, MySQL                                  |
+| **DevOps & CI/CD** | Docker, GitHub Actions, Render.com, Git                                  |
+| **AI & Data**    | OpenAI API, Selenium scraping, Redis caching                              |
+
+---
+
+## 💼 Experience
+
+**SynQuad** (Jul 2022 – 2024)
+- Founded and led development of a responsive Next.js website, managed a small engineering team, and enforced Git workflows.
+- Collaborated on animation-rich UIs with designers for seamless user experiences.
+
+**Outlier AI** (2024 – 2025)
+- Trained AI on software development workflows by crafting and refining code prompts.
+- Debugged AI-generated code, explained root causes, and improved model accuracy.
+- Taught AI advanced mathematics—linear algebra, calculus, and probability—to boost reasoning.
+
+---
+
+## 🔨 Projects
+
+**Google Maps Data Scraper** (2023)
+- Cross-platform desktop & mobile app (Python, Tkinter, React Native) to extract business data with rotating API keys and delays.
+- Automated WhatsApp verification, real-time KPI dashboards, and AI-driven insights via OpenAI API.
+
+**Digital Game Store Website** (2024)
+- Full-stack platform (Node.js, Express, MySQL, Docker) for game purchasing, library management, and admin controls.
+- Implemented CI/CD pipelines, role-based access, and optimized SQL performance.
+
+**CS2 Items Marketplace** (2025)
+- Commission-free P2P trading platform for CS2 skins built with React, Node.js, MongoDB, and Socket.IO.
+- Integrated Steam OAuth, real-time inventory sync, dynamic pricing suggestions, and admin analytics on Render.com.
+
+---
+
+## 🌱 Learning & Goals
+
+- Master **React Native** and **Flutter** for cross-platform mobile apps
+- Architect **microservices** with Kubernetes and Docker Swarm
+- Fine-tune **transformer models** and deploy on cloud platforms
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aslan-eminovi/)
+- ✉️ eminoviaslan@gmail.com
+- 🏫 aslan.eminovi@istanbulticaret.edu.tr
+
+> "Be water, my friend." – Bruce Lee
 
 </div>
