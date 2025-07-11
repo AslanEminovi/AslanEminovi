@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://aslaneminovi.com" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
+      <a href="https://jarvisinterview.tech/cv" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Visit my Website</a>
       <br>
       <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" alt="Spinning Globe" width="150" height="150" />
     </td>
