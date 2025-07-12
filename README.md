@@ -4,7 +4,8 @@
 
 # Hey there, I’m Aslan Eminovi! 👋
 
-**Computer Engineer** at Istanbul Ticaret University (Class of ’26) │ **Founder/Developer** of [Jarvis Interview Assistant](https://jarvisinterview.tech) │ **Founder & Lead Developer** at SynQuad │ **AI Programming & Math Trainer** at Outlier AI
+**4th Year Computer Engineering Student** │ **Founder/Developer** of [Jarvis Interview Assistant](https://jarvisinterview.tech) │ **Founder & Lead Developer** at **SynQuad** │ **Focused on Scalable Systems & DevOps Architecture**
+
 
 <table align="center">
   <tr>
