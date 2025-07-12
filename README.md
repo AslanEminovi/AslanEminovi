@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-I’m a third-year Computer Engineering student who loves building clean, scalable web platforms from scratch. I specialize in creating production-ready applications with intelligent systems and robust cloud infrastructure.
+I’m a 4th Computer Engineering student who loves building clean, scalable web platforms from scratch. I specialize in creating production-ready applications with intelligent systems and robust cloud infrastructure.
 
 - 🤖 Training AI models on coding patterns and advanced math
 - ⚙️ Exploring Docker, CI/CD pipelines, and cloud deployments
