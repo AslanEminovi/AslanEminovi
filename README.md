@@ -4,7 +4,7 @@
 
 # Hey there, I’m Aslan Eminovi! 👋
 
-**Computer Engineer** at Istanbul Ticaret University (Class of ’26) │ **Founder & Lead Developer** at SynQuad │ **AI Programming & Math Trainer** at Outlier AI
+**Computer Engineer** at Istanbul Ticaret University (Class of ’26) │ **Founder/Developer** of [Jarvis Interview Assistant](https://jarvisinterview.tech) │ **Founder & Lead Developer** at SynQuad │ **AI Programming & Math Trainer** at Outlier AI
 
 <table align="center">
   <tr>
@@ -27,9 +27,8 @@
 
 ## 🚀 About Me
 
-I’m a third-year Computer Engineering student who loves building web and mobile apps from scratch. I thrive on solving real-world challenges with clean, maintainable code and scalable architectures.
+I’m a third-year Computer Engineering student who loves building clean, scalable web platforms from scratch. I specialize in creating production-ready applications with intelligent systems and robust cloud infrastructure.
 
-- 🎮 Strategizing in CS2 for quick mental refreshers
 - 🤖 Training AI models on coding patterns and advanced math
 - ⚙️ Exploring Docker, CI/CD pipelines, and cloud deployments
 - ♟️ Enjoying tactical play in chess matches with friends
@@ -40,48 +39,55 @@ I’m a third-year Computer Engineering student who loves building web and mobil
 
 | Domain           | Expertise                                                                 |
 |------------------|---------------------------------------------------------------------------|
-| **Languages**    | JavaScript, TypeScript, Python, Java, SQL                                 |
-| **Frontend**     | React.js, Next.js, Angular, NextUI, Tailwind                              |
+| **Languages**    | JavaScript, TypeScript, Java, SQL                                         |
+| **Frontend**     | React.js, Next.js, NextUI, Tailwind                                       |
 | **Backend**      | Node.js, Express, Django, MongoDB, MySQL                                  |
-| **DevOps & CI/CD** | Docker, GitHub Actions, Render.com, Git                                  |
-| **AI & Data**    | OpenAI API, Selenium scraping, Redis caching                              |
+| **DevOps & CI/CD** | Docker, GitHub Actions, Git                                              |
 
 ---
 
 ## 💼 Experience
 
-**SynQuad** (Jul 2022 – 2024)
-- Founded and led development of a responsive Next.js website, managed a small engineering team, and enforced Git workflows.
-- Collaborated on animation-rich UIs with designers for seamless user experiences.
+**Jarvis Interview Assistant** (2025 – Present)  
+- Designed and engineered an undetectable AI-powered interview assistant with a modern web dashboard, authentication flow, desktop app, and subscription engine.  
+- Architected a secure microservices system using Next.js, Railway, Vercel, and Paddle for real-time user interaction and billing.  
+- Led full-stack development across all product layers, including authentication, usage analytics, payment integrations, and deployment automation.
 
-**Outlier AI** (2024 – 2025)
-- Trained AI on software development workflows by crafting and refining code prompts.
-- Debugged AI-generated code, explained root causes, and improved model accuracy.
+**Outlier AI** (2024 – 2025)  
+- Trained AI on software development workflows by crafting and refining code prompts.  
+- Debugged AI-generated code, explained root causes, and improved model accuracy.  
 - Taught AI advanced mathematics—linear algebra, calculus, and probability—to boost reasoning.
+
+**SynQuad** (Jul 2022 – 2024)  
+- Founded and led development of a responsive Next.js website, managed a small engineering team, and enforced Git workflows.  
+- Collaborated with designers to create animation-rich UIs for seamless user experiences.
 
 ---
 
 ## 🔨 Projects
 
-**Google Maps Data Scraper** (2023)
-- Cross-platform desktop & mobile app (Python, Tkinter, React Native) to extract business data with rotating API keys and delays.
-- Automated WhatsApp verification, real-time KPI dashboards, and AI-driven insights via OpenAI API.
+**Jarvis Interview Assistant** (2025)  
+- Full-stack AI interview companion: stealth-enabled desktop app + web dashboard + payment system  
+- Next.js 15, Tailwind CSS, Paddle, PostgreSQL, Electron, Railway, Vercel, NextAuth.js  
 
-**Digital Game Store Website** (2024)
-- Full-stack platform (Node.js, Express, MySQL, Docker) for game purchasing, library management, and admin controls.
-- Implemented CI/CD pipelines, role-based access, and optimized SQL performance.
+**Google Maps Data Scraper** (2023)  
+- Desktop-first business scraping tool using API key rotation, email automation, and custom dashboards  
+- AI-driven insights via OpenAI and automated WhatsApp verification
 
-**CS2 Items Marketplace** (2025)
-- Commission-free P2P trading platform for CS2 skins built with React, Node.js, MongoDB, and Socket.IO.
-- Integrated Steam OAuth, real-time inventory sync, dynamic pricing suggestions, and admin analytics on Render.com.
+**Digital Game Store Website** (2024)  
+- Node.js + Express + MySQL backend with full admin controls and CI/CD on Docker  
+- Implemented library management, optimized queries, and secure user access logic
+
+**CS2 Items Marketplace** (2025)  
+- P2P trading app using React, MongoDB, and Socket.IO with Steam OAuth  
+- Integrated live inventory sync, pricing suggestions, and analytics dashboards
 
 ---
 
 ## 🌱 Learning & Goals
 
-- Master **React Native** and **Flutter** for cross-platform mobile apps
-- Architect **microservices** with Kubernetes and Docker Swarm
-- Fine-tune **transformer models** and deploy on cloud platforms
+- Master **DevOps** workflows for scalable deployments  
+- Advance in **Back-End Engineering** with distributed systems and microservices  
 
 ---
 
