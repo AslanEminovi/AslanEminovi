@@ -4,7 +4,7 @@
 
 # Hey there, I’m Aslan Eminovi! 👋
 
-**4th Year Computer Engineering Student** │ **Founder/Developer** of [Jarvis Interview Assistant](https://jarvisinterview.tech) │ **Founder & Lead Developer** at **SynQuad** │ **Focused on Scalable Systems & DevOps Architecture**
+**4th Year Computer Engineering Student** │ **Tutored AI** to give precise and correct responses to the requests about Coding & Mathematics │ **Founder & Lead Developer** at **SynQuad** │ **Focused on Scalable Systems & DevOps Architecture**
 
 
 <table align="center">
@@ -49,10 +49,11 @@ I’m a 4th Computer Engineering student who loves building clean, scalable web 
 
 ## 💼 Experience
 
-**Jarvis Interview Assistant** (2025 – Present)  
-- Designed and engineered an undetectable AI-powered interview assistant with a modern web dashboard, authentication flow, desktop app, and subscription engine.  
-- Architected a secure microservices system using Next.js, Railway, Vercel, and Paddle for real-time user interaction and billing.  
-- Led full-stack development across all product layers, including authentication, usage analytics, payment integrations, and deployment automation.
+**Backend Engineering Intern at Codex** (2025 June 15 - July 15)  
+- Developed a cross-platform desktop application (macOS & Windows) using Electron (frontend) and Java (backend) to analyze websites.
+- Built functionality to crawl links from any website and extract all images, videos, and embedded links for analysis.
+- Integrated AI summarization and media analysis using GPT (text/image) and Gemini (video) APIs to deliver meaningful content insights.
+- Implemented a “Technology Lookup” feature that detects all technologies and programming languages used by a site, with timeline tracking of when technologies were adopted or deprecated.
 
 **Outlier AI** (2024 – 2025)  
 - Trained AI on software development workflows by crafting and refining code prompts.  
