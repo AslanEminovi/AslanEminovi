@@ -68,9 +68,9 @@ I’m a 4th Computer Engineering student who loves building clean, scalable web 
 
 ## 🔨 Projects
 
-**Jarvis Interview Assistant** (2025)  
-- Full-stack AI interview companion: stealth-enabled desktop app + web dashboard + payment system  
-- Next.js 15, Tailwind CSS, Paddle, PostgreSQL, Electron, Railway, Vercel, NextAuth.js  
+**CODEX Summarizer** (2025)  
+- Cross-platform desktop app (macOS & Windows) that crawls websites, extracts media, and summarizes content using AI
+- Electron + Java app with GPT and Gemini API integrations for media analysis and tech stack timeline detection
 
 **Google Maps Data Scraper** (2023)  
 - Desktop-first business scraping tool using API key rotation, email automation, and custom dashboards  
