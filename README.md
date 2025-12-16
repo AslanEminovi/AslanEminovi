@@ -2,9 +2,9 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
-# Hey there, I'm Aslan Eminovi! 👋
+# Hey there, I’m Aslan Eminovi! 👋
 
-**4th Year Computer Engineering Student** │ **Tutored AI** to give precise and correct responses to the requests about Coding & Mathematics │ **Founder & Lead Developer** at **SynQuad** │ **Focused on Scalable Systems & DevOps Architecture**
+**4th Year Computer Engineering Student** │ **Tutored AI** to give precise and correct responses to the requests about Coding & Mathematics │ **Founder & Lead Developer** at **SynQuad** │ **Developer of Mülk: Real Estate Portfolio App** │ **Focused on Scalable Systems & DevOps Architecture**
 
 
 <table align="center">
@@ -17,7 +17,7 @@
     <td align="center">
       <a href="https://www.youtube.com/watch?v=9ytiyD_QA2s" target="_blank" style="display: inline-block; margin-bottom: 15px; background-color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; color: black;">Listen to Music</a>
       <br>
-      <img src="https://media.giphy.com/media/BG49MnxAciCVAuQMj/giphy.gif" alt="Music Vibes" width="150" height="150" />
+      <img src="https://media.giphy.com/media/BG49MnxAciCIVAuQMj/giphy.gif" alt="Music Vibes" width="150" height="150" />
     </td>
   </tr>
 </table>
@@ -25,6 +25,7 @@
 ---
 
 <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+
 
 ## 🚀 About Me
 
@@ -67,10 +68,12 @@ I'm a 4th Computer Engineering student who loves building clean, scalable web pl
 ---
 
 ## 🔨 Projects
-
 **Mülk - Real Estate Portfolio App** (2025)  
 - iOS app for tracking real estate investments, rental income, and portfolio value  
-- Built with SwiftUI and Supabase, featuring interactive maps and ROI analytics  
+- Built with SwiftUI, SwiftData for offline caching, and Supabase (PostgreSQL + Auth + Storage)  
+- MapKit & Mapbox integration for interactive property visualization  
+- MVVM architecture with repository pattern, separating local and remote data sources  
+- Features: ROI analytics, mortgage calculator, tenant management, rent history tracking, document storage  
 - [App Store](https://apps.apple.com/tr/app/m%C3%BClk-gayrimenkul-portf%C3%B6y%C3%BC/id6756184502)
 
 **CODEX Summarizer** (2025)  
